@@ -1,5 +1,5 @@
 # Obfuscated by Py Compile
-# Created by Wh!73 D3v!1 (https://github.com/White-Devil-Hackers)
+# Created by Wh!73 D3v!1 (https://github.com/WHI73-D3VI1)
 # Facebook : (https://www.facebook.com/WHI73.D3VI1)
 # Don't try to edit or modify this tool
 
